@@ -5,6 +5,7 @@ Aplikasi Android untuk mengecek kesehatan tanaman, pohon, dan objek alam lainnya
 ## 📱 Screenshot
 
 <!-- Tempel screenshot/GIF demo aplikasi di sini -->
+https://github.com/Aliakbar23/Agrilog/releases/tag/v1.0.0
 
 ## ✨ Fitur
 
